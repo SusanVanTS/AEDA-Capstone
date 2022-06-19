@@ -1,7 +1,5 @@
 ## Description 
-This project is done for a course named 'Associate Enterprise Data Analyst' by The Center of Applied Data Science. 
-In this course, it is involving how to use python, jupyter notebook. Using pandas package for data manipulation, and numpy for some calculation part.
-We even learnt some visualization package like seaborn, matplotlib to visualize our data better. Inside this course, we also learnt SQL to create, modify a database.
+This project is done for a course named 'Associate Enterprise Data Analyst' by The Center of Applied Data Science. This course, it is involving how to use python, jupyter notebook. Using pandas package for data manipulation, and NumPy for some calculation parts. We even learned some visualization packages like seaborn, matplotlib to visualize our data better. Inside this course, we also learned SQL to create, and modify a database.
 
 ## Files 
 - Capstone_AEDA_group3.ipynb: The main capstone project for my group
